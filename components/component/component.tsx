@@ -78,13 +78,13 @@ export function Component() {
             <div className="space-y-4">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">About Me</h2>
               <p className="text-gray-500 dark:text-gray-400">
-                I'm a passionate designer with over 5 years of experience in the industry. I specialize in creating
+                I&apos;m a passionate designer with over 5 years of experience in the industry. I specialize in creating
                 beautiful and functional digital experiences that delight users. My design process is centered around
                 user-centric design, with a strong focus on research, prototyping, and iterative testing.
               </p>
               <p className="text-gray-500 dark:text-gray-400">
-                In addition to my design work, I'm also an avid learner and enjoy staying up-to-date with the latest
-                design trends and technologies. I'm constantly exploring new tools and techniques to enhance my skills
+                In addition to my design work, I&apos;m also an avid learner and enjoy staying up-to-date with the latest
+                design trends and technologies. I&apos;m constantly exploring new tools and techniques to enhance my skills
                 and deliver even better results for my clients.
               </p>
               <Button href="/resume.pdf" variant="link">
@@ -219,8 +219,8 @@ export function Component() {
             <div className="space-y-4">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Get in Touch</h2>
               <p className="text-gray-500 dark:text-gray-400">
-                I'm always excited to discuss new projects and collaborate with talented individuals. Feel free to reach
-                out using the form below, and I'll get back to you as soon as possible.
+                I&apos;m always excited to discuss new projects and collaborate with talented individuals. Feel free to reach
+                out using the form below, and I&apos;ll get back to you as soon as possible.
               </p>
               <form className="space-y-4">
                 <div className="grid gap-4 sm:grid-cols-2">
@@ -243,7 +243,7 @@ export function Component() {
               </form>
             </div>
             <div className="space-y-4">
-              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Let's Connect</h2>
+              <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">Let&apos;s Connect</h2>
               <p className="text-gray-500 dark:text-gray-400">You can also find me on the following platforms:</p>
               <div className="grid gap-4">
                 <a
