@@ -31,7 +31,7 @@ import { Label } from "@/components/ui/label"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 
-export function Component() {
+export function Layout() {
   return (
     <>
       <header className="sticky top-0 z-50 bg-white/90 backdrop-blur-sm dark:bg-gray-950/90">
